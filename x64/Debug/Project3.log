@@ -1,0 +1,5 @@
+﻿  Strings.cpp
+C:\Users\ffnss\source\repos\Project3\Project3\Strings.cpp(49,13): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ffnss\source\repos\Project3\Project3\Strings.cpp(52,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ffnss\source\repos\Project3\Project3\Strings.cpp(93,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Project3.vcxproj -> C:\Users\ffnss\source\repos\Project3\x64\Debug\Project3.exe
